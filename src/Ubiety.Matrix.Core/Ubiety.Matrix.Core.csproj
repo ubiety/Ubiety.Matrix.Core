@@ -6,4 +6,8 @@
     <LangLevel>latest</LangLevel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Ubiety.Matrix.Core.csproj.DotSettings" />
+  </ItemGroup>
+
 </Project>

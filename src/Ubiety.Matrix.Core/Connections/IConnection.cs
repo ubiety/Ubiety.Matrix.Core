@@ -1,3 +1,5 @@
+using System;
+
 namespace Ubiety.Matrix.Core.Connections
 {
     public interface IConnection
